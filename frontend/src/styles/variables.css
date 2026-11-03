@@ -1,0 +1,15 @@
+:root {
+  --color-primary: #123b72;
+  --color-primary-light: #2563eb;
+  --color-background: #f5f7fb;
+  --color-surface: #ffffff;
+  --color-text: #172033;
+  --color-text-muted: #64748b;
+  --color-border: #e2e8f0;
+
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 18px;
+
+  --shadow-card: 0 4px 16px rgb(15 23 42 / 5%);
+}
